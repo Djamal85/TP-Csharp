@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
-    "",
     "\\Csharp\\ConsoleApp1",
-    "\\Csharp\\ConsoleApp1\\ConsoleApp1"
+    "\\Csharp\\ConsoleApp1\\ConsoleApp1",
+    "\\LIAGECsharp2026",
+    "\\LIAGECsharp2026\\ConsoleApp1",
+    "\\LIAGECsharp2026\\ConsoleApp1\\ConsoleApp1"
   ],
-  "SelectedNode": "\\Csharp",
   "PreviewInSolutionExplorer": false
 }
