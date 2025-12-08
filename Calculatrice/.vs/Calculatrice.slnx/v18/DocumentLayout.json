@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\calculatrice\\calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\calculatrice\\calculatrice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\calculatrice\\calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\calculatrice\\calculatrice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE9E20F-9647-4B04-BC05-B7447C0BBD1C}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form1.cs",
-              "RelativeDocumentMoniker": "Calculatrice\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form1.cs",
-              "RelativeToolTip": "Calculatrice\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form2.cs",
+              "RelativeDocumentMoniker": "Calculatrice\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form2.cs",
+              "RelativeToolTip": "Calculatrice\\Form2.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T17:02:51.673Z",
+              "WhenOpened": "2025-12-04T12:44:42.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form1.cs",
-              "RelativeDocumentMoniker": "Calculatrice\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form1.cs [Design]",
-              "RelativeToolTip": "Calculatrice\\Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form2.cs",
+              "RelativeDocumentMoniker": "Calculatrice\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\Calculatrice\\Calculatrice\\Form2.cs [Design]",
+              "RelativeToolTip": "Calculatrice\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T17:01:05.861Z",
+              "WhenOpened": "2025-12-04T10:23:21.365Z",
               "EditorCaption": " [Design]"
             }
           ]
