@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\bin\Debug\AppGestionCahierTexte.exe.config
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\bin\Debug\AppGestionCahierTexte.exe
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\bin\Debug\AppGestionCahierTexte.pdb
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.frmConnexion.resources
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.frmMDI.resources
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Properties.Resources.resources
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmAnneeAcademique.resources
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmClasse.resources
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmMatiere.resources
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.csproj.GenerateResource.cache
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.exe
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.pdb
