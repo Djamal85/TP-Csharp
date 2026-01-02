@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\views\\parametre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\views\\parametre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\views\\parametre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\views\\parametre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\bdcahiertextecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\bdcahiertextecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\views\\parametre\\frmclasse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\views\\parametre\\frmclasse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\anneeacademique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\anneeacademique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\syllabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\syllabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\responsableclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\responsableclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\cahiertexte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\cahiertexte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\models\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\models\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|c:\\users\\hp\\documents\\licence 3 pro\\c#\\tp\\appgestioncahiertexte\\appgestioncahiertexte\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\appgestioncahiertexte\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\appgestioncahiertexte\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\appgestioncahiertexte\\frmmdi.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\frmmdi.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\appgestioncahiertexte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\appgestioncahiertexte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D9A62-7462-4817-A71C-F7C5678AA3CA}|AppGestionCahierTexte\\AppGestionCahierTexte.csproj|solutionrelative:appgestioncahiertexte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BdCahierTexteContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\BdCahierTexteContext.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\BdCahierTexteContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\BdCahierTexteContext.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\BdCahierTexteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T23:54:23.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmClasse.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Views\\Parametre\\frmClasse.Designer.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Views\\Parametre\\frmClasse.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Views\\Parametre\\frmClasse.Designer.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Views\\Parametre\\frmClasse.Designer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwI4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T23:12:59.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmClasse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwEsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:55:53.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClasse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs [Design]",
+              "RelativeToolTip": "AppGestionCahierTexte\\Views\\Parametre\\frmClasse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:43:19.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Classe.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\Classe.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Classe.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\Classe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:55:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:47:49.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Syllabus.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Syllabus.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\Syllabus.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Syllabus.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\Syllabus.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:07:19.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponsableClasse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\ResponsableClasse.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\ResponsableClasse.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\ResponsableClasse.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\ResponsableClasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:52:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnneeAcademique.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\AnneeAcademique.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\AnneeAcademique.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\AnneeAcademique.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\AnneeAcademique.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:55:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CahierTexte.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\CahierTexte.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\CahierTexte.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\CahierTexte.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\CahierTexte.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:56:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Professeur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Professeur.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\Professeur.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Professeur.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\Professeur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:44:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Matiere.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Models\\Matiere.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Models\\Matiere.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Models\\Matiere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:27:49.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\App.config",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\App.config",
+              "RelativeToolTip": "AppGestionCahierTexte\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-30T15:07:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMDI.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.resx",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\frmMDI.resx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.resx",
+              "RelativeToolTip": "AppGestionCahierTexte\\frmMDI.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-10T19:56:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMDI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.Designer.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\frmMDI.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.Designer.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\frmMDI.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:55:54.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Form1.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Form1.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:26:03.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\frmMDI.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:19:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMDI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\frmMDI.cs [Design]",
+              "RelativeToolTip": "AppGestionCahierTexte\\frmMDI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:00:54.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppGestionCahierTexte\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\LICENCE 3 PRO\\C#\\TP\\AppGestionCahierTexte\\AppGestionCahierTexte\\Form1.Designer.cs",
+              "RelativeToolTip": "AppGestionCahierTexte\\Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:25:41.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

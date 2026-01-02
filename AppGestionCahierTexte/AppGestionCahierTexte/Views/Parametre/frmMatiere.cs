@@ -16,5 +16,10 @@ namespace AppGestionCahierTexte.Views.Parametre
         {
             InitializeComponent();
         }
+
+        private void frmMatiere_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

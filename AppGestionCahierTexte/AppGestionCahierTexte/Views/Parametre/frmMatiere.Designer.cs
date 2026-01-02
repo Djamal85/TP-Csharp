@@ -38,6 +38,7 @@
             this.ControlBox = false;
             this.Name = "frmMatiere";
             this.Text = "Matiere";
+            this.Load += new System.EventHandler(this.frmMatiere_Load);
             this.ResumeLayout(false);
 
         }
