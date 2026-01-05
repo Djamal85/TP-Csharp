@@ -29,42 +29,47 @@
         private void InitializeComponent()
         {
             this.DgClasse = new System.Windows.Forms.DataGridView();
-            this.TxtLibelle = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lblLibelle = new System.Windows.Forms.Label();
+            this.txtLibelle = new System.Windows.Forms.TextBox();
             this.TxtAnneeAcademique = new System.Windows.Forms.Label();
             this.cbbAnneeAcademique = new System.Windows.Forms.ComboBox();
             this.BtnAdd = new System.Windows.Forms.Button();
             this.btnEdit = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnSelect = new System.Windows.Forms.Button();
+            this.txtRClasse = new System.Windows.Forms.TextBox();
+            this.txtRAnnee = new System.Windows.Forms.TextBox();
+            this.btnSearch = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.DgClasse)).BeginInit();
             this.SuspendLayout();
             // 
             // DgClasse
             // 
             this.DgClasse.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DgClasse.Location = new System.Drawing.Point(308, 100);
+            this.DgClasse.Location = new System.Drawing.Point(308, 91);
             this.DgClasse.Name = "DgClasse";
             this.DgClasse.RowHeadersWidth = 51;
             this.DgClasse.RowTemplate.Height = 24;
             this.DgClasse.Size = new System.Drawing.Size(613, 438);
             this.DgClasse.TabIndex = 0;
             // 
-            // TxtLibelle
+            // lblLibelle
             // 
-            this.TxtLibelle.AutoSize = true;
-            this.TxtLibelle.Location = new System.Drawing.Point(24, 100);
-            this.TxtLibelle.Name = "TxtLibelle";
-            this.TxtLibelle.Size = new System.Drawing.Size(47, 16);
-            this.TxtLibelle.TabIndex = 1;
-            this.TxtLibelle.Text = "Libelle";
+            this.lblLibelle.AutoSize = true;
+            this.lblLibelle.Location = new System.Drawing.Point(39, 96);
+            this.lblLibelle.Name = "lblLibelle";
+            this.lblLibelle.Size = new System.Drawing.Size(36, 32);
+            this.lblLibelle.TabIndex = 1;
+            this.lblLibelle.Text = "Libel\r\nle";
             // 
-            // textBox1
+            // txtLibelle
             // 
-            this.textBox1.Location = new System.Drawing.Point(27, 131);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(258, 22);
-            this.textBox1.TabIndex = 2;
+            this.txtLibelle.Location = new System.Drawing.Point(27, 131);
+            this.txtLibelle.Name = "txtLibelle";
+            this.txtLibelle.Size = new System.Drawing.Size(258, 22);
+            this.txtLibelle.TabIndex = 2;
             // 
             // TxtAnneeAcademique
             // 
@@ -123,20 +128,67 @@
             this.btnSelect.UseVisualStyleBackColor = true;
             this.btnSelect.Click += new System.EventHandler(this.btnSelect_Click);
             // 
+            // txtRClasse
+            // 
+            this.txtRClasse.Location = new System.Drawing.Point(390, 40);
+            this.txtRClasse.Name = "txtRClasse";
+            this.txtRClasse.Size = new System.Drawing.Size(125, 22);
+            this.txtRClasse.TabIndex = 9;
+            // 
+            // txtRAnnee
+            // 
+            this.txtRAnnee.Location = new System.Drawing.Point(610, 40);
+            this.txtRAnnee.Name = "txtRAnnee";
+            this.txtRAnnee.Size = new System.Drawing.Size(134, 22);
+            this.txtRAnnee.TabIndex = 10;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.Location = new System.Drawing.Point(789, 22);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(132, 40);
+            this.btnSearch.TabIndex = 11;
+            this.btnSearch.Text = "&Rechercher";
+            this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(335, 46);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(49, 16);
+            this.label1.TabIndex = 12;
+            this.label1.Text = "Classe";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(555, 43);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(46, 16);
+            this.label2.TabIndex = 13;
+            this.label2.Text = "Annee";
+            // 
             // frmClasse
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(933, 550);
             this.ControlBox = false;
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnSearch);
+            this.Controls.Add(this.txtRAnnee);
+            this.Controls.Add(this.txtRClasse);
             this.Controls.Add(this.btnSelect);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnEdit);
             this.Controls.Add(this.BtnAdd);
             this.Controls.Add(this.cbbAnneeAcademique);
             this.Controls.Add(this.TxtAnneeAcademique);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.TxtLibelle);
+            this.Controls.Add(this.txtLibelle);
+            this.Controls.Add(this.lblLibelle);
             this.Controls.Add(this.DgClasse);
             this.Name = "frmClasse";
             this.Text = "Classe";
@@ -150,13 +202,18 @@
         #endregion
 
         private System.Windows.Forms.DataGridView DgClasse;
-        private System.Windows.Forms.Label TxtLibelle;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label lblLibelle;
+        private System.Windows.Forms.TextBox txtLibelle;
         private System.Windows.Forms.Label TxtAnneeAcademique;
         private System.Windows.Forms.ComboBox cbbAnneeAcademique;
         private System.Windows.Forms.Button BtnAdd;
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnSelect;
+        private System.Windows.Forms.TextBox txtRClasse;
+        private System.Windows.Forms.TextBox txtRAnnee;
+        private System.Windows.Forms.Button btnSearch;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }

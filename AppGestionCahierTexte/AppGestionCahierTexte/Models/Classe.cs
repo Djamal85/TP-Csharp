@@ -8,18 +8,18 @@ using System.Threading.Tasks;
 
 namespace AppGestionCahierTexte.Models
 {
-    public class Classe
+    public class LaClasse
     {
         [Key]
         public int IdClasse { get; set; }
 
-        [Required, MaxLength(10)]
+        [MaxLength(10)]
         public string LibelleClasse { get; set; } 
         
-        public int IdAnneeAcademique { get; set; }
+        public int? IdAnneeAcademique { get; set; }
 
 
-        [ForeignKey("IdAnneeAcademique")]
-        public virtual AnneeAcademique AnneeAcademique { get; set; }
+        //[ForeignKey("IdAnneeAcademique")]
+        //public virtual AnneeAcademique AnneeAcademique { get; set; }
     }
 }

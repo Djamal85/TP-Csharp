@@ -6,7 +6,6 @@ C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahier
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.frmMDI.resources
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Properties.Resources.resources
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmAnneeAcademique.resources
-C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmClasse.resources
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmMatiere.resources
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.csproj.GenerateResource.cache
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.csproj.CoreCompileInputs.cache
@@ -49,3 +48,4 @@ C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahier
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGesti.8529B6D3.Up2Date
+C:\Users\HP\Documents\LICENCE 3 PRO\C#\TP\AppGestionCahierTexte\AppGestionCahierTexte\obj\Debug\AppGestionCahierTexte.Views.Parametre.frmClasse.resources

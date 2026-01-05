@@ -128,6 +128,7 @@
     <Compile Include="Models\CahierTexte.cs" />
     <Compile Include="Models\Classe.cs" />
     <Compile Include="Models\DetailsSyllabus.cs" />
+    <Compile Include="Models\ListItem.cs" />
     <Compile Include="Models\Matiere.cs" />
     <Compile Include="Models\Professeur.cs" />
     <Compile Include="Models\ResponsableClasse.cs" />
@@ -135,6 +136,7 @@
     <Compile Include="Models\Utilisateur.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shared\FillListOption.cs" />
     <Compile Include="Views\Parametre\frmAnneeAcademique.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -191,6 +193,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

@@ -23,6 +23,8 @@ namespace AppGestionCahierTexte.Models
         [Required, MaxLength(20)]
         public string NiveauSyllabus { get; set; }
 
+        public virtual ICollection<DetailsSyllabus> DetailsSyllabus { get; set; }
+
 
     }
 }

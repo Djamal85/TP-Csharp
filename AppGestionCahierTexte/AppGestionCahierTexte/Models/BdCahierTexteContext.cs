@@ -19,7 +19,7 @@ namespace AppGestionCahierTexte.Models
 
         public DbSet<AnneeAcademique> AnneesAcademiques { get; set; }
 
-        public DbSet<Classe> Classes { get; set; }
+        public DbSet<LaClasse> LaClasses { get; set; }
 
         public DbSet<Utilisateur> Utilisateurs { get; set; }
 
