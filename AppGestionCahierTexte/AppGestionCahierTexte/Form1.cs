@@ -28,5 +28,11 @@ namespace AppGestionCahierTexte
             f.Show();
             this.Hide();
         }
+
+        private void frmConnexion_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

@@ -39,41 +39,44 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(46, 65);
+            this.label1.Location = new System.Drawing.Point(52, 81);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 16);
+            this.label1.Size = new System.Drawing.Size(80, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "Identifiant";
             // 
             // txtIdentifiant
             // 
-            this.txtIdentifiant.Location = new System.Drawing.Point(49, 96);
+            this.txtIdentifiant.Location = new System.Drawing.Point(55, 120);
+            this.txtIdentifiant.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtIdentifiant.Name = "txtIdentifiant";
-            this.txtIdentifiant.Size = new System.Drawing.Size(517, 22);
+            this.txtIdentifiant.Size = new System.Drawing.Size(581, 26);
             this.txtIdentifiant.TabIndex = 1;
             // 
             // txtMotDePasse
             // 
-            this.txtMotDePasse.Location = new System.Drawing.Point(50, 202);
+            this.txtMotDePasse.Location = new System.Drawing.Point(56, 252);
+            this.txtMotDePasse.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtMotDePasse.Name = "txtMotDePasse";
-            this.txtMotDePasse.Size = new System.Drawing.Size(517, 22);
+            this.txtMotDePasse.Size = new System.Drawing.Size(581, 26);
             this.txtMotDePasse.TabIndex = 2;
             this.txtMotDePasse.UseSystemPasswordChar = true;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(47, 171);
+            this.label2.Location = new System.Drawing.Point(53, 214);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(89, 16);
+            this.label2.Size = new System.Drawing.Size(105, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "Mot de passe";
             // 
             // btnSeConnecter
             // 
-            this.btnSeConnecter.Location = new System.Drawing.Point(419, 288);
+            this.btnSeConnecter.Location = new System.Drawing.Point(471, 360);
+            this.btnSeConnecter.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSeConnecter.Name = "btnSeConnecter";
-            this.btnSeConnecter.Size = new System.Drawing.Size(148, 38);
+            this.btnSeConnecter.Size = new System.Drawing.Size(166, 48);
             this.btnSeConnecter.TabIndex = 3;
             this.btnSeConnecter.Text = "&Se Connecter";
             this.btnSeConnecter.UseVisualStyleBackColor = true;
@@ -81,9 +84,10 @@
             // 
             // btnQuitter
             // 
-            this.btnQuitter.Location = new System.Drawing.Point(50, 288);
+            this.btnQuitter.Location = new System.Drawing.Point(56, 360);
+            this.btnQuitter.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnQuitter.Name = "btnQuitter";
-            this.btnQuitter.Size = new System.Drawing.Size(105, 38);
+            this.btnQuitter.Size = new System.Drawing.Size(118, 48);
             this.btnQuitter.TabIndex = 4;
             this.btnQuitter.Text = "&Quitter";
             this.btnQuitter.UseVisualStyleBackColor = true;
@@ -91,9 +95,9 @@
             // 
             // frmConnexion
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(661, 495);
+            this.ClientSize = new System.Drawing.Size(744, 619);
             this.ControlBox = false;
             this.Controls.Add(this.btnQuitter);
             this.Controls.Add(this.btnSeConnecter);
@@ -101,8 +105,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtIdentifiant);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmConnexion";
             this.Text = "Gestion Cahier de texte";
+            this.Load += new System.EventHandler(this.frmConnexion_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

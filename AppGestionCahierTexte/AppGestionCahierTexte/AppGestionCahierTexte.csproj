@@ -122,6 +122,10 @@
     <Compile Include="frmMDI.Designer.cs">
       <DependentUpon>frmMDI.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202601111826158_CleEtrangere.cs" />
+    <Compile Include="Migrations\202601111826158_CleEtrangere.Designer.cs">
+      <DependentUpon>202601111826158_CleEtrangere.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AnneeAcademique.cs" />
     <Compile Include="Models\BdCahierTexteContext.cs" />
@@ -160,6 +164,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMDI.resx">
       <DependentUpon>frmMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202601111826158_CleEtrangere.resx">
+      <DependentUpon>202601111826158_CleEtrangere.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -37,7 +37,7 @@ namespace AppGestionCahierTexte.Views.Parametre
         {
             LaClasse c = new LaClasse();
             c.LibelleClasse = txtLibelle.Text;
-            c.IdAnneeAcademique = int.Parse(cbbAnneeAcademique.SelectedValue.ToString());
+            c.IdAcademique = int.Parse(cbbAnneeAcademique.SelectedValue.ToString());
             db.LaClasses.Add(c);
             db.SaveChanges();
 
@@ -56,7 +56,7 @@ namespace AppGestionCahierTexte.Views.Parametre
             int? id = int.Parse(DgClasse.CurrentRow.Cells[0].Value.ToString());
             var c = db.LaClasses.Find(id);
             c.LibelleClasse = txtLibelle.Text;
-            c.IdAnneeAcademique = int.Parse(cbbAnneeAcademique.SelectedValue.ToString());
+            c.IdAcademique = int.Parse(cbbAnneeAcademique.SelectedValue.ToString());
             db.SaveChanges();
             Effacer();
 
@@ -83,7 +83,7 @@ namespace AppGestionCahierTexte.Views.Parametre
             if (!string.IsNullOrEmpty(txtRAnnee.Text))
             {
                 int? annee = int.Parse(txtRAnnee.Text);
-                liste = liste.Where(c => c.IdAnneeAcademique ==annee).ToList();
+                liste = liste.Where(c => c.IdAcademique ==annee).ToList();
             }
 
             if (!string.IsNullOrEmpty(txtRClasse.Text))

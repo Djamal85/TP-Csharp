@@ -16,10 +16,12 @@ namespace AppGestionCahierTexte.Models
         [MaxLength(10)]
         public string LibelleClasse { get; set; } 
         
-        public int? IdAnneeAcademique { get; set; }
+        public int? IdAnneAcademique { get; set; }
+
+        public int? IdAcademique { get; set; }
 
 
-        //[ForeignKey("IdAnneeAcademique")]
+        //[ForeignKey("IdAcademique")]
         //public virtual AnneeAcademique AnneeAcademique { get; set; }
     }
 }
